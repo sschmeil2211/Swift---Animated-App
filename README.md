@@ -3,9 +3,9 @@
 ![Badge Succesfull](https://img.shields.io/badge/STATUS-FINALIZED-green)
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/sebastian-schmeil/)
+* [LinkedIn](https://www.linkedin.com/in/sebastian-schmeil/)
 
-- schmeil.sebastian97@gmail.com
+* schmeil.sebastian97@gmail.com
 
 - [Description](#description)
 - [Demo](#demo)
