@@ -2,11 +2,15 @@
 
 ![Badge Succesfull](https://img.shields.io/badge/STATUS-FINALIZED-green)
 
+## Contact
+[LinkedIn](https://www.linkedin.com/in/sebastian-schmeil/)
+schmeil.sebastian97@gmail.com
+
 - [Description](#description)
 - [Demo](#demo)
 - [Scripts Explanation](#scripts-explanation)
 - [Access to the Project](#access-to-the-project)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used) 
 
 ## Description
 Swift Animated App is an engaging application that leverages Rive Animations to deliver a visually pleasing design for users.
